@@ -1,0 +1,6 @@
+# Compiled 
+*.exe 
+*.o 
+*.dll 
+# Save file 
+gamesave.dat 
